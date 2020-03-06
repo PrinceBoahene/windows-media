@@ -1,0 +1,32 @@
+C:\Users\Nana Kay Prince(CEO)\Documents\Visual Studio 2010\Projects\WorkOFfline\Media Player\Media Player\obj\x86\Debug\Interop.WMPLib.dll
+C:\Users\Nana Kay Prince(CEO)\Documents\Visual Studio 2010\Projects\WorkOFfline\Media Player\Media Player\obj\x86\Debug\AxInterop.WMPLib.dll
+C:\Users\Nana Kay Prince(CEO)\Documents\Visual Studio 2010\Projects\WorkOFfline\Media Player\Media Player\obj\x86\Debug\Media Player.vbproj.ResolveComReference.cache
+C:\Users\Nana Kay Prince(CEO)\Documents\Visual Studio 2010\Projects\WorkOFfline\Media Player\Media Player\bin\Debug\Media Player.exe
+C:\Users\Nana Kay Prince(CEO)\Documents\Visual Studio 2010\Projects\WorkOFfline\Media Player\Media Player\bin\Debug\Media Player.pdb
+C:\Users\Nana Kay Prince(CEO)\Documents\Visual Studio 2010\Projects\WorkOFfline\Media Player\Media Player\bin\Debug\Media Player.xml
+C:\Users\Nana Kay Prince(CEO)\Documents\Visual Studio 2010\Projects\WorkOFfline\Media Player\Media Player\bin\Debug\Interop.WMPLib.dll
+C:\Users\Nana Kay Prince(CEO)\Documents\Visual Studio 2010\Projects\WorkOFfline\Media Player\Media Player\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Nana Kay Prince(CEO)\Documents\Visual Studio 2010\Projects\WorkOFfline\Media Player\Media Player\obj\x86\Debug\Media_Player.Form1.resources
+C:\Users\Nana Kay Prince(CEO)\Documents\Visual Studio 2010\Projects\WorkOFfline\Media Player\Media Player\obj\x86\Debug\Media_Player.Resources.resources
+C:\Users\Nana Kay Prince(CEO)\Documents\Visual Studio 2010\Projects\WorkOFfline\Media Player\Media Player\obj\x86\Debug\Media Player.vbproj.GenerateResource.Cache
+C:\Users\Nana Kay Prince(CEO)\Documents\Visual Studio 2010\Projects\WorkOFfline\Media Player\Media Player\obj\x86\Debug\Media Player.exe
+C:\Users\Nana Kay Prince(CEO)\Documents\Visual Studio 2010\Projects\WorkOFfline\Media Player\Media Player\obj\x86\Debug\Media Player.xml
+C:\Users\Nana Kay Prince(CEO)\Documents\Visual Studio 2010\Projects\WorkOFfline\Media Player\Media Player\obj\x86\Debug\Media Player.pdb
+C:\Users\Nana Kay Prince(CEO)\Documents\Visual Studio 2010\Projects\WorkOFfline\Media Player\Media Player\obj\x86\Debug\Interop.NODEMGRLib.dll
+C:\Users\Nana Kay Prince(CEO)\Documents\Visual Studio 2010\Projects\WorkOFfline\Media Player\Media Player\obj\x86\Debug\Media_Player.web.resources
+C:\Users\admin\Documents\Visual Studio 2010\Projects\WorkOFfline\Media Player\Media Player\obj\x86\Debug\Interop.NODEMGRLib.dll
+C:\Users\admin\Documents\Visual Studio 2010\Projects\WorkOFfline\Media Player\Media Player\obj\x86\Debug\Interop.WMPLib.dll
+C:\Users\admin\Documents\Visual Studio 2010\Projects\WorkOFfline\Media Player\Media Player\obj\x86\Debug\AxInterop.WMPLib.dll
+C:\Users\admin\Documents\Visual Studio 2010\Projects\WorkOFfline\Media Player\Media Player\obj\x86\Debug\Media Player.vbproj.ResolveComReference.cache
+C:\Users\admin\Documents\Visual Studio 2010\Projects\WorkOFfline\Media Player\Media Player\obj\x86\Debug\Media Player.exe
+C:\Users\admin\Documents\Visual Studio 2010\Projects\WorkOFfline\Media Player\Media Player\obj\x86\Debug\Media Player.xml
+C:\Users\admin\Documents\Visual Studio 2010\Projects\WorkOFfline\Media Player\Media Player\obj\x86\Debug\Media Player.pdb
+C:\Users\admin\Documents\Visual Studio 2010\Projects\WorkOFfline\Media Player\Media Player\bin\Debug\Media Player.exe
+C:\Users\admin\Documents\Visual Studio 2010\Projects\WorkOFfline\Media Player\Media Player\bin\Debug\Media Player.pdb
+C:\Users\admin\Documents\Visual Studio 2010\Projects\WorkOFfline\Media Player\Media Player\bin\Debug\Media Player.xml
+C:\Users\admin\Documents\Visual Studio 2010\Projects\WorkOFfline\Media Player\Media Player\bin\Debug\Interop.WMPLib.dll
+C:\Users\admin\Documents\Visual Studio 2010\Projects\WorkOFfline\Media Player\Media Player\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\admin\Documents\Visual Studio 2010\Projects\WorkOFfline\Media Player\Media Player\obj\x86\Debug\Media_Player.Form1.resources
+C:\Users\admin\Documents\Visual Studio 2010\Projects\WorkOFfline\Media Player\Media Player\obj\x86\Debug\Media_Player.Resources.resources
+C:\Users\admin\Documents\Visual Studio 2010\Projects\WorkOFfline\Media Player\Media Player\obj\x86\Debug\Media_Player.web.resources
+C:\Users\admin\Documents\Visual Studio 2010\Projects\WorkOFfline\Media Player\Media Player\obj\x86\Debug\Media Player.vbproj.GenerateResource.Cache
